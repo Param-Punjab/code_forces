@@ -9,3 +9,5 @@
 [01:16] : finally I did the quesiotn.
 
 [01:36] : the submition got accepted on code forece, I am feeling great after that. Now it's time to sleep good bye.
+
+[02:48] : another problem of code fores got done "Bear and Big Brother 791A".
