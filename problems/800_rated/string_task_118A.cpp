@@ -7,7 +7,7 @@ string filter(string my_string) {
     if ((int)c >= 65 && (int)c <= 90) {
       c = char((int)c + 32);
     }
-    if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+    if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'y') {
       continue;
     } else {
       s.push_back('.');
