@@ -10,7 +10,7 @@ string filter(string my_string) {
     if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
       continue;
     } else {
-      s.push_back(',');
+      s.push_back('.');
       s.push_back(c);
     }
   }
