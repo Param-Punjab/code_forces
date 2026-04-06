@@ -13,3 +13,6 @@
 [02:48] : another problem of code fores got done "Bear and Big Brother 791A".
 
 [03:01] : another problem solved on code force "B++ 282A".
+
+[21:03] : Code forces problem solved "string_task_118A" from that I got knowladge of ASCI, how to run string on loop
+        : without know the size of string.
