@@ -18,3 +18,5 @@
         : without know the size of string.
 
 [21:18] : I guess it's enough for today for codeforces and now I am going towards my other plans.
+
+[23:17] : Just solved team_71A problem on code forces it's straight forward.
