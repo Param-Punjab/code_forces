@@ -1,6 +1,7 @@
 # Codeforces Journey — param-punjab
 
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B)
+![OS](https://img.shields.io/badge/OS-Arch%20%7C%20Kali-557C94?style=flat-square&logo=linux) ![WM](https://img.shields.io/badge/WM-i3-222222?style=flat-square)
 ![Platform](https://img.shields.io/badge/Codeforces-matharoo-1F8ACB?style=flat-square)
 ![Started](https://img.shields.io/badge/Started-April%202026-orange?style=flat-square)
 
