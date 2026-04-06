@@ -20,3 +20,7 @@
 [21:18] : I guess it's enough for today for codeforces and now I am going towards my other plans.
 
 [23:17] : Just solved team_71A problem on code forces it's straight forward.
+
+## 07-04-2026
+[01:39] : Today I completed another quesiton '236A_beautifyl_matrix' and from that I know about another function
+        : abs() -> and which is used to take magnitue in simple terms.
