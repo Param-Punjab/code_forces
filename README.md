@@ -16,3 +16,5 @@
 
 [21:03] : Code forces problem solved "string_task_118A" from that I got knowladge of ASCI, how to run string on loop
         : without know the size of string.
+
+[21:18] : I guess it's enough for today for codeforces and now I am going towards my other plans.
