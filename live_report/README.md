@@ -26,3 +26,6 @@
         : abs() -> and which is used to take magnitue in simple terms.
 
 [11:28] : solved "281A Word Capitalization" and got revisied (int)'A' ASCII code.
+
+[12:03] : another problem got solved on codeforces problem name "339A helpful maths" and from that I learned about
+        : sorting in array.
