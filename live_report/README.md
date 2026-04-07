@@ -33,3 +33,5 @@
 [14:56] : Another problem on code forces got solved Problem name "112A Petya and Strings".
 
 [15:50] : 59A Word Problem Solved
+
+[16:16] : 69A Young Physicist Solved
