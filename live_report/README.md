@@ -29,3 +29,5 @@
 
 [12:03] : another problem got solved on codeforces problem name "339A helpful maths" and from that I learned about
         : sorting in array.
+
+[14:56] : Another problem on code forces got solved Problem name "112A Petya and Strings".
