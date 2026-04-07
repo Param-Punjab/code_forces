@@ -24,3 +24,5 @@
 ## 07-04-2026
 [01:39] : Today I completed another quesiton '236A_beautifyl_matrix' and from that I know about another function
         : abs() -> and which is used to take magnitue in simple terms.
+
+[11:28] : solved "281A Word Capitalization" and got revisied (int)'A' ASCII code.
