@@ -42,3 +42,5 @@
 [11:57] : Today's another problem got solved 96A_football
 
 [12:14] : Problem 59A Translation got solved and from that I got to know about how to reverse a word.
+
+[12:26] : Problem 734A - Anton and Danik got solved.
