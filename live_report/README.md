@@ -45,4 +45,6 @@
 
 [12:26] : Problem 734A - Anton and Danik got solved.
 
-[12:37] Problem 677A - Vanya and Fence got solved.
+[12:37] : Problem 677A - Vanya and Fence got solved.
+
+[12:52] : Problem 1030A - In Search of an Easy Problem got solved.
