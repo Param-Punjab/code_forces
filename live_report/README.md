@@ -78,3 +78,9 @@
 [01:24] : Problem got solved.
 
 
+## 13-04-2026
+[15:33] : Trying to solve old problem "A486_calculating_function" problem.
+
+[15:45] : Again the problem is out of mind. Now solving another problem 136A Presents.
+
+[16:14] : Problem got solved now leaving code forces.

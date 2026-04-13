@@ -1,21 +1,21 @@
 #include <iostream>
 
 int main() {
-  int n, t = 0, c = 0;
+  int n;
 
   std::cin >> n;
 
-  for (int i = 1; i <= n; i++) {
+  int even = n/2;
+  int odd = 0;
 
-    if (i % 2 == 0) {
-      c = i;
-    } else {
-      c = -i;
-    }
-    t = t+c;
+  if (n%2==0) {
+    odd = n/2;
+  } else {
+    odd = (n/2)+1;
   }
 
-  std::cout << t;
+  std::cout << even-odd << std::endl;
+
 
   return 0;
 }
