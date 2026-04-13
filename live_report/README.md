@@ -84,3 +84,8 @@
 [15:45] : Again the problem is out of mind. Now solving another problem 136A Presents.
 
 [16:14] : Problem got solved now leaving code forces.
+
+## 14-04-2026
+[01:29] : I solved an math + implementation question on codeforces 200B - Drisks
+
+[01:48] : I try another quesiton but now it's sleep time good night see you in the morning.
