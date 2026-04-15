@@ -89,3 +89,8 @@
 [01:29] : I solved an math + implementation question on codeforces 200B - Drisks
 
 [01:48] : I try another quesiton but now it's sleep time good night see you in the morning.
+
+## 15-04-2026
+[16:30] : Problem number 1742A Sum got started it's feels easy.
+
+[17:00] : Problem solved.
