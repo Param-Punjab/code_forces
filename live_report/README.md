@@ -94,3 +94,8 @@
 [16:30] : Problem number 1742A Sum got started it's feels easy.
 
 [17:00] : Problem solved.
+
+## 16-04-2026
+[11:30] : Starting yesterday incomplete code forces question and I got learn from it about even and odd number like how to calculate it from O(1) insted of O(n)
+
+[12:15] : Problem number 318A Even Odd numbers and also get to know about long long data type that int can't store more than 10^8 values.
