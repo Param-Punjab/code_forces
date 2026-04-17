@@ -99,3 +99,8 @@
 [11:30] : Starting yesterday incomplete code forces question and I got learn from it about even and odd number like how to calculate it from O(1) insted of O(n)
 
 [12:15] : Problem number 318A Even Odd numbers and also get to know about long long data type that int can't store more than 10^8 values.
+
+## 17-04-2026
+[15:45] : I started Question of rating 800 228A where I did some implemntation and math's.
+
+[16:00] : I solved that question and it's easy then I think. 
