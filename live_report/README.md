@@ -109,3 +109,5 @@
 [22:45] : huh, litterly man now the questions on code forces are hard and now I successfully completed 208A question.
 
 [22:46] : I guess that enought for today.
+
+[23:44] : another problem 617A_Elephant got solved.
