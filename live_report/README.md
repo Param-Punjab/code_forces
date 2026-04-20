@@ -103,4 +103,9 @@
 ## 17-04-2026
 [15:45] : I started Question of rating 800 228A where I did some implemntation and math's.
 
-[16:00] : I solved that question and it's easy then I think. 
+[16:00] : I solved that question and it's easy then I think.
+
+## 20-04-2026
+[22:45] : huh, litterly man now the questions on code forces are hard and now I successfully completed 208A question.
+
+[22:46] : I guess that enought for today.
