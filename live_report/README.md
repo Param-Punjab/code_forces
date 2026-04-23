@@ -114,3 +114,10 @@
 
 ## 21-04-2026
 [21:39] : I particepate in cotest and got A prooblem solved by self littler hint.
+
+## 23-04-2026
+[16:01] : CF: A1 problem got solved it's too much time consuming the single test case which consume too much time just variable size issue.
+
+[16:02] : Starting CF 158A problem.
+
+[18:53] : CF: 158A problem got solved.
