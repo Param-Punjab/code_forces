@@ -6,19 +6,18 @@ int main() {
 
 	std::cin >> n;
 
-	std::vector<int> arr_1(n);
-	std::vector<int> arr_2(n);
+  std::vector<std::vector<long long int>> arr(n, std::vector<long long int>(2, 0));
 	std::vector<int> arr_final(n, 0);
 
 
 	for (int i = 0; i < n; i++) {
-		std::cin >> arr_1[i] >> arr_2[i];
+    std::cin >> arr[i][0] >> arr[i][1];
 	}
 
 	for (int i = 0; i < n; i++) {
 
-		while( arr_1[i] % arr_2[i] != 0 ) {
-				arr_1[i]++;
+		while( arr[i][0] % arr[i][1] != 0 ) {
+				arr[i][0]++;
 				arr_final[i]++;
 		}
 
