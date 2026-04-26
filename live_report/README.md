@@ -141,3 +141,6 @@
 [11:00] : Started problem 469A - I Wanna Be the Guy and it consume a lot of time.
 
 [13:35] : Problem got solved.
+
+## 26-04-2026
+[13:50] : Finally I did solve the heavy math driven problem, CF: 486A - Calculating Function.

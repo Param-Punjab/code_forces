@@ -1,21 +1,23 @@
 #include <iostream>
+#include <cmath>
 
 int main() {
-  int n;
-
+  long long int n = 0;
+  long long int a = 0;
+  long long int b = 0;
   std::cin >> n;
 
-  int even = n/2;
-  int odd = 0;
+  // even
+  if (n == 0) {return 1;}
+  if (n % 2 == 0) { a = n/2; }
+  else { a = (n-1)/2;}
 
-  if (n%2==0) {
-    odd = n/2;
-  } else {
-    odd = (n/2)+1;
-  }
+  // odd
+  if (n % 2 == 0) { b = n/2;}
+  else { b = std::ceil((double)n/2); }
 
-  std::cout << even-odd << std::endl;
+  long long int result = (a*(a+1)) - (b*b);
 
-
+  std::cout << result << std::endl;
   return 0;
 }
