@@ -144,3 +144,10 @@
 
 ## 26-04-2026
 [13:50] : Finally I did solve the heavy math driven problem, CF: 486A - Calculating Function.
+
+## 27-04-2026
+[20:00] : I started a code forces problem 996A  - Hit the Lottery which first feels easy but it hard.
+
+[21:12] : First I implemented this problem with if else case but after that I know about that it consumes a lot of time then I converted if else into math's formula.
+
+[21:14] : Signing Out.
