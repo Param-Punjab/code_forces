@@ -151,3 +151,11 @@
 [21:12] : First I implemented this problem with if else case but after that I know about that it consumes a lot of time then I converted if else into math's formula.
 
 [21:14] : Signing Out.
+
+## 28-04-2026
+[12:48] : I started a new problem but I can't solve it. Due to personal issue I can't manage to add time to code forces.
+
+## 29-04-2026
+[21:49] : Again It's hard to manage everything but I am trying and I will never stop, trying to solve code forces problem "58A Chat Room".
+
+[22:55] : Finally it got done, and it was not easy.
