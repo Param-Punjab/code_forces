@@ -159,3 +159,6 @@
 [21:49] : Again It's hard to manage everything but I am trying and I will never stop, trying to solve code forces problem "58A Chat Room".
 
 [22:55] : Finally it got done, and it was not easy.
+
+## 30-04-2026
+[22:00] : I participate in contest and I did solve A questoin.
