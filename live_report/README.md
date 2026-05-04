@@ -162,3 +162,9 @@
 
 ## 30-04-2026
 [22:00] : I participate in contest and I did solve A questoin.
+
+
+## 04-04-2026
+[12:30] : Starting simple implementation problem, 785A.
+
+[01:10] : Problem got solved.
