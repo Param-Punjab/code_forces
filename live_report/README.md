@@ -168,3 +168,8 @@
 [12:30] : Starting simple implementation problem, 785A.
 
 [01:10] : Problem got solved.
+
+## 05-04-2026
+[12:30] : CF problem started 520A. 
+
+[13:21] : CF 520A problem got soleved using set. 
