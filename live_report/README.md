@@ -173,3 +173,15 @@
 [12:30] : CF problem started 520A. 
 
 [13:21] : CF 520A problem got soleved using set. 
+
+## 06-04-2026
+[10:30] : Start finding problem. 
+
+[11:00] : finally found 266A
+
+[11:37] : Problem got solved.
+
+## 07-04-2026
+[12:00] : Today I started with problem number 271A 
+
+[14:00] : It got solved.
