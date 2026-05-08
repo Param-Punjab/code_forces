@@ -185,3 +185,8 @@
 [12:00] : Today I started with problem number 271A 
 
 [14:00] : It got solved.
+
+## 08-04-2026
+[19:30] : Today I solved 1 problem 116A Tram which feels hard to see but it's very easy. 
+
+[19:50] : Started CF : 160A Twins Problem.
