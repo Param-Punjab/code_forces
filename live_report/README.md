@@ -195,3 +195,8 @@
 [00:30] : code forces 148A question started.
 
 [01:00] : Question got finished.
+
+[23:52] : Got fucked up by reading DBMS because tommorw is dbms exam. So I decided to write some cpp I pick Gravity Flip Problem. 405A "ha ha 405 bench goal"
+
+## 11-04-2026
+[00:25] : I got done with 405 not at bench at code forces questoin 405A and it's easy just sorting thing but I did that in little complex way. 
