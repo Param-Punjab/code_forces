@@ -164,39 +164,44 @@
 [22:00] : I participate in contest and I did solve A questoin.
 
 
-## 04-04-2026
+## 04-05-2026
 [12:30] : Starting simple implementation problem, 785A.
 
 [01:10] : Problem got solved.
 
-## 05-04-2026
+## 05-05-2026
 [12:30] : CF problem started 520A. 
 
 [13:21] : CF 520A problem got soleved using set. 
 
-## 06-04-2026
+## 06-05-2026
 [10:30] : Start finding problem. 
 
 [11:00] : finally found 266A
 
 [11:37] : Problem got solved.
 
-## 07-04-2026
+## 07-05-2026
 [12:00] : Today I started with problem number 271A 
 
 [14:00] : It got solved.
 
-## 08-04-2026
+## 08-05-2026
 [19:30] : Today I solved 1 problem 116A Tram which feels hard to see but it's very easy. 
 
 [19:50] : Started CF : 160A Twins Problem.
 
-## 10-04-2026
+## 10-05-2026
 [00:30] : code forces 148A question started.
 
 [01:00] : Question got finished.
 
 [23:52] : Got fucked up by reading DBMS because tommorw is dbms exam. So I decided to write some cpp I pick Gravity Flip Problem. 405A "ha ha 405 bench goal"
 
-## 11-04-2026
+## 11-05-2026
 [00:25] : I got done with 405 not at bench at code forces questoin 405A and it's easy just sorting thing but I did that in little complex way. 
+
+## 15-05-2026
+[22:38] : Start problem 443A Anton and Letters. There was MST so that's why I can't focus on code forces and some other stuff.
+
+[22:50] : Problem got solved easily. 
