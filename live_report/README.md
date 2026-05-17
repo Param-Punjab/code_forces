@@ -205,3 +205,13 @@
 [22:38] : Start problem 443A Anton and Letters. There was MST so that's why I can't focus on code forces and some other stuff.
 
 [22:50] : Problem got solved easily. 
+
+## 16-05-2026
+[21:05] : I started a questoin 131A.
+
+[22:00] : I was trying to solve that questoin but I can't it's very hard. 
+
+## 17-05-2026
+[10:30] : Today I tryed very hard to solve that question and I found out that there can be in betten cases which got wrong 
+
+[11:11] : Finally the problem got solved.
