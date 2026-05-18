@@ -215,3 +215,10 @@
 [10:30] : Today I tryed very hard to solve that question and I found out that there can be in betten cases which got wrong 
 
 [11:11] : Finally the problem got solved.
+
+## 18-05-2026
+[20:00] : I started to solve questoin 510A Fox and Snake. 
+
+[21:20] : There's a ranked contest is going on then I registerd and start participating.
+
+[21:40] : And I can't solve it I don't know which hidden case is there.
