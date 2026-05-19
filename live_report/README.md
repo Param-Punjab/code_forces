@@ -170,24 +170,24 @@
 [01:10] : Problem got solved.
 
 ## 05-05-2026
-[12:30] : CF problem started 520A. 
+[12:30] : CF problem started 520A.
 
-[13:21] : CF 520A problem got soleved using set. 
+[13:21] : CF 520A problem got soleved using set.
 
 ## 06-05-2026
-[10:30] : Start finding problem. 
+[10:30] : Start finding problem.
 
 [11:00] : finally found 266A
 
 [11:37] : Problem got solved.
 
 ## 07-05-2026
-[12:00] : Today I started with problem number 271A 
+[12:00] : Today I started with problem number 271A
 
 [14:00] : It got solved.
 
 ## 08-05-2026
-[19:30] : Today I solved 1 problem 116A Tram which feels hard to see but it's very easy. 
+[19:30] : Today I solved 1 problem 116A Tram which feels hard to see but it's very easy.
 
 [19:50] : Started CF : 160A Twins Problem.
 
@@ -199,26 +199,31 @@
 [23:52] : Got fucked up by reading DBMS because tommorw is dbms exam. So I decided to write some cpp I pick Gravity Flip Problem. 405A "ha ha 405 bench goal"
 
 ## 11-05-2026
-[00:25] : I got done with 405 not at bench at code forces questoin 405A and it's easy just sorting thing but I did that in little complex way. 
+[00:25] : I got done with 405 not at bench at code forces questoin 405A and it's easy just sorting thing but I did that in little complex way.
 
 ## 15-05-2026
 [22:38] : Start problem 443A Anton and Letters. There was MST so that's why I can't focus on code forces and some other stuff.
 
-[22:50] : Problem got solved easily. 
+[22:50] : Problem got solved easily.
 
 ## 16-05-2026
 [21:05] : I started a questoin 131A.
 
-[22:00] : I was trying to solve that questoin but I can't it's very hard. 
+[22:00] : I was trying to solve that questoin but I can't it's very hard.
 
 ## 17-05-2026
-[10:30] : Today I tryed very hard to solve that question and I found out that there can be in betten cases which got wrong 
+[10:30] : Today I tryed very hard to solve that question and I found out that there can be in betten cases which got wrong
 
 [11:11] : Finally the problem got solved.
 
 ## 18-05-2026
-[20:00] : I started to solve questoin 510A Fox and Snake. 
+[20:00] : I started to solve questoin 510A Fox and Snake.
 
 [21:20] : There's a ranked contest is going on then I registerd and start participating.
 
 [21:40] : And I can't solve it I don't know which hidden case is there.
+
+## 19-05-2026
+[09:30] : Started code forces questioin 1703A.
+
+[10:20] : Got solved.
