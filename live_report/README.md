@@ -227,3 +227,8 @@
 [09:30] : Started code forces questioin 1703A.
 
 [10:20] : Got solved.
+
+## 20-05-2026
+[10:30] : I started problem "1335A Candies and Two Sisters"
+
+[10:57] : I completed that question through math.
