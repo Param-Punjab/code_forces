@@ -1,34 +1,26 @@
 #include <iostream>
+#include <vector>
 
 int main() {
-    int t;
+  int t = 0;
 
-    std::cin >> t;
+  std::cin >> t;
 
-    int arr[3];
+  std::vector<int> arr(3, 0);
+  std::vector<std::string> answer(t, "NO");
 
-    int final[t];
+  for (int i = 0; i < t; i++) {
+    std::cin >> arr[0] >> arr[1] >> arr[2];
 
-    for (int i = 0; i < t; i++) {
-
-        std::cin >> arr[0] >> arr[1] >> arr[2];
-
-        if (arr[0] + arr[1] == arr[2]) {
-            final[i] = 1;
-        } else if (arr[0] + arr[2] == arr[1]) {
-            final[i] = 1;
-        } else if (arr[1] + arr[2] == arr[0]) {
-            final[i] = 1;
-        } else { final[i] = 0;}
+    if ((arr[0] == arr[1] + arr[2]) || (arr[1] == arr[0] + arr[2]) ||
+        (arr[2] == arr[0] + arr[1])) {
+      answer[i] = "YES";
     }
+  }
 
-    for (int i = 0; i < t; i++) {
-        if (final[i] == 1) {
-            std::cout << "YES" << std::endl;
-        } else {
-            std::cout << "NO" << std::endl;;
-        }
-    }
+  for (int i = 0; i < t; i++) {
+    std::cout << answer[i] << std::endl;
+  }
 
-    return 0;
+  return 0;
 }

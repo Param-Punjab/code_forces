@@ -232,3 +232,8 @@
 [10:30] : I started problem "1335A Candies and Two Sisters"
 
 [10:57] : I completed that question through math.
+
+## 21-05-2026
+[10:30] : Problem started 1742A.
+
+[10:50] : Problem got solved easily.
