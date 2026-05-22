@@ -237,3 +237,12 @@
 [10:30] : Problem started 1742A.
 
 [10:50] : Problem got solved easily.
+
+## 22-05-2026
+[10:15] : Started code forces problem 580A
+
+[10:21] : Finish with first version. and problem got wrong and 2 case.
+
+[10:33] : Tried attempt 2 after knowing that the special condtion but it gives wrong answer at other cases.
+
+[10:53] : 3rd attempt just saving max pointer value into another variable and reset pointer. and this time it got accepted but with time 140 ms
