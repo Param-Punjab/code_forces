@@ -246,3 +246,16 @@
 [10:33] : Tried attempt 2 after knowing that the special condtion but it gives wrong answer at other cases.
 
 [10:53] : 3rd attempt just saving max pointer value into another variable and reset pointer. and this time it got accepted but with time 140 ms
+
+[22:51] : Solving code forces problem 25A
+
+[22:56] : Problem got solved.
+
+[23:05] : started another code forces problem 230B T-primes
+
+## 24-05-2026
+[23:25] : It was very busy schedule and I try to solve that one old problem "T-prime" but I can't because
+        : it got stuck on very large factorial because I use wilson theorm to check whatever a number is prime or not.
+
+[23:30] : So I stareted looking for an easy problem for easy daily quata fill up and I got which is very shity 1915.
+[23:37] : Solved.
