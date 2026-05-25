@@ -258,4 +258,10 @@
         : it got stuck on very large factorial because I use wilson theorm to check whatever a number is prime or not.
 
 [23:30] : So I stareted looking for an easy problem for easy daily quata fill up and I got which is very shity 1915.
+
 [23:37] : Solved.
+
+## 25-05-2026
+[11:05] : So I am ready to defete 230A.
+
+[11:59] : Finally It got done.
