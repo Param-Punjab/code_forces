@@ -265,3 +265,12 @@
 [11:05] : So I am ready to defete 230A.
 
 [11:59] : Finally It got done.
+
+## 26-05-2026
+[09:57] : Login, let's start searching for todays code forces question.
+
+[10:02] : So I started problem statement number 268A and it's hard but I will do it today it's don't matter how much time it take.
+
+[10:31] : I done with my first version it was very easy just question understanding issue. Let's see the first version will work or not.
+
+[10:33] : The code successfully pass all cases.
