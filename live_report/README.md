@@ -274,3 +274,13 @@
 [10:31] : I done with my first version it was very easy just question understanding issue. Let's see the first version will work or not.
 
 [10:33] : The code successfully pass all cases.
+
+## 27-05-2026
+[10:14] : Today I will start sum of round numbers 1352A.
+
+[10:56] : I got done with the first version of my code but it doesn't not handle if input will come with someting like that "name1"
+
+[11:41] : the first version is not working on second test case so I try to use un ordermap for second version
+
+[11:59] : It got accepted and today I got know about new data structure which is unorderred_map it was amazing data structure
+        : I am finding of something like that data structure.
