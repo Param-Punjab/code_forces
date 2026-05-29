@@ -284,3 +284,31 @@
 
 [11:59] : It got accepted and today I got know about new data structure which is unorderred_map it was amazing data structure
         : I am finding of something like that data structure.
+
+## 28-05-2026
+[20:20] : So I got here after amazing chest and tricep workout. Now I am starting Questoin number 2167A
+
+[20:21] : Start reading problem statement.
+
+[20:24] : Oh, I see the fucking problem is related to math's that's why my bitch frined ask me to do that.
+
+[20:33] : It can be done like that take smallest int form the array then get it's gcd by start from 2 till 10^18 but it will be time consuming.
+
+[21:14] : A motherfucking bitch called me and wasted my time from 20:33 till now. Reconnecting to my work.
+
+[21:18] : looking for how can I find gcd in computer.
+
+[22:18] : it's good problem, eating food right now.
+
+[22:35] : Done with my 30 gm protien meal it's never yumy.
+
+[23:12] : converting vector into set for removing duplicates.
+
+[23:42] : Time limit extended I think I need to start with different approach.
+
+## 29-05-2026
+[11:21] : Starting with old problem 2167D. Trying to find different approach to improve time used by it.
+
+[12:01] : I solved using prime factors let's see if it can clear test cases.
+
+[12:11] : I did that.
