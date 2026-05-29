@@ -312,3 +312,7 @@
 [12:01] : I solved using prime factors let's see if it can clear test cases.
 
 [12:11] : I did that.
+
+[12:30] : started another easy problem 1829B.
+
+[12:51] : Done with first version let's see if it works. 
