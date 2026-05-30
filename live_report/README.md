@@ -316,3 +316,6 @@
 [12:30] : started another easy problem 1829B.
 
 [12:51] : Done with first version let's see if it works. 
+
+## 30-05-2026
+[13:05] : started 1791A problem. and solved.
