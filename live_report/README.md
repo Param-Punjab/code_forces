@@ -319,3 +319,6 @@
 
 ## 30-05-2026
 [13:05] : started 1791A problem. and solved.
+
+## 31-05-2026
+[11:38] : I try an easy question due to exam. 750A and it got accapted.
