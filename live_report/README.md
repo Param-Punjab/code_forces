@@ -315,10 +315,19 @@
 
 [12:30] : started another easy problem 1829B.
 
-[12:51] : Done with first version let's see if it works. 
+[12:51] : Done with first version let's see if it works.
 
 ## 30-05-2026
 [13:05] : started 1791A problem. and solved.
 
 ## 31-05-2026
 [11:38] : I try an easy question due to exam. 750A and it got accapted.
+
+## 01-06-2026
+[21:53] : It was shity day today I was my DM exam which is ok, I get easilly pass through it
+        : I did correct 40 marks and attempt 50 marks I don't know what will happend after that
+        : I go to gym in that I start leg day traning and my brain got paining so hard and I got
+        : vormit simptoms after all that I come back cose I can't lift. Now I am trying to solve
+        : 492A Problem at code forces.
+
+[22:12] : guess what bro it got accepted.
