@@ -336,3 +336,12 @@
 [21:50] : Started easy question because of low time to maintain movementum.
 [21:51] : Problem : 1669A.
 [22:02] : Problem got solved.
+
+## 03-06-2026
+[02:56] : Late night trying to solve 1200 rating problem 492B Vanya and Lanterns my ghost girl.
+
+[03:26] : I come up with my first version in which I will sort the lamps and after that check
+        : for what ever the largest space divided by 2 is larger or before first lamp or in the
+        : end of the lamp radios is larger which got larger go the ansewr.
+
+[15:03] : Finally problem got accepted after multiple attempts.
