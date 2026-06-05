@@ -345,3 +345,15 @@
         : end of the lamp radios is larger which got larger go the ansewr.
 
 [15:03] : Finally problem got accepted after multiple attempts.
+
+[20:53] : Today I didn't did anything expect scrolling and helping mechanic in my house. Also reinstallation of wifi.
+
+[20:54] : So I decided to start and problem "Remilian Plays Soku" Which number is 2228B at codeforces.
+
+## 05-06-2026
+[16:51] : Hello, git. It's another day and I am here. Today's exam was not bad I think that It will but it's not.
+        : Now I am ready to complete the remaining problem 2228B.
+
+[22:36] : started nother easy problem for making movementum. 1807A.
+
+[22:38] : My tommorw first job is to solve 2228B questoin.
