@@ -357,3 +357,10 @@
 [22:36] : started nother easy problem for making movementum. 1807A.
 
 [22:38] : My tommorw first job is to solve 2228B questoin.
+
+## 06-06-2026
+[21:48] : Due to End Semester Examination I ran out of time so today also I am finding an easy questoin to solve.
+
+[21:55] : So I started to solve problem 1950A.
+
+[22:00] : So I solved that problem.
