@@ -364,3 +364,17 @@
 [21:55] : So I started to solve problem 1950A.
 
 [22:00] : So I solved that problem.
+
+## 07-06-2026
+[22:41] : today I take part in codeforces contest 2234 in which I try to solve first question but due to my english
+        : Low understanding I can't solve it. So now I after overing of contest I did come with it's first version.
+        : let's wait now for system check some test.
+
+## 08-06-2026
+
+[18:18] : It's exam date so I find an implementation quesiton and trying
+to solve it.
+
+[18:20] : I found 1676A question which is just implementation.
+
+[18:30] : Due to silly mistake I ruined my first attempt now it got done.
