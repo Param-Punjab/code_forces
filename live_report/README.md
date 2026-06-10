@@ -378,3 +378,19 @@ to solve it.
 [18:20] : I found 1676A question which is just implementation.
 
 [18:30] : Due to silly mistake I ruined my first attempt now it got done.
+
+## 09-06-2026
+
+[20:44] : Todays exam was easy and now I am doing code froces contest questoin problem A.
+
+## 10-06-2026
+
+[15:22] : I am trying to solve a problem fro morning but can't get the answer and now trying for another one.
+
+[15:24] : Now trying to solve another problem that if I can solve it.
+
+[15:34] : So I chose to start solving Seats 2188B problem.
+
+[23:34] : starting question 1772A.
+
+[23:37] : problem is very easy.
