@@ -410,3 +410,13 @@ to solve it.
 [21:55] : Participating in contest which of div 3.
 
 [23:56] : Problem A got solved.
+
+## 13-06-2026
+
+[10:20] : Hello there, I am finding for problem statement.
+
+[10:22] : Start reading problem statement 339B
+
+[22:17] : So I restart and selected the problem 706B which seems hard but it's simpmle. Now trying to implement that.
+
+[23:04] : So I try to solve but time limit execde so now I am going to sleep now.
