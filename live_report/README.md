@@ -420,3 +420,9 @@ to solve it.
 [22:17] : So I restart and selected the problem 706B which seems hard but it's simpmle. Now trying to implement that.
 
 [23:04] : So I try to solve but time limit execde so now I am going to sleep now.
+
+## 14-06-2026
+
+[17:10] : Tommorw is my exam and I didn't study a single thing in it.
+
+[17:12] : Due to exam pressure I decided to don't solve any question.

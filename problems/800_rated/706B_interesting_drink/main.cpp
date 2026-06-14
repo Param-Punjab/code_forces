@@ -26,14 +26,17 @@ int main() {
 
   for (int j = 0; j < q; j++) {
 
-    for (int i = arr.size() - 1; i >= 0; i--) {
-      if (queries[j] >= arr[i]) {
-        count++;
-      } 
+    count = n;
+
+    for (int i = 0; i < n; i++) {
+      if (queries[j] <= arr[i]) {
+        count--;
+      } else {
+        break;
+      }
     }
 
     results[j] = count;
-    count = 0;
   }
 
   for (int i = 0; i < q; i++) {
