@@ -426,3 +426,12 @@ to solve it.
 [17:10] : Tommorw is my exam and I didn't study a single thing in it.
 
 [17:12] : Due to exam pressure I decided to don't solve any question.
+
+## 15-06-2026
+
+[20:07] : It's was ok day, yesterday I did something which am trying to do from month's or near year but regretting I guess
+        : Don't know is that ok or not but it's need to happen and I don't known what to do now.
+
+[20:09] : Now solving code forces old problem which is Interesting drink yes I can't can't that I mean time complexity error.
+
+[21:01] : Endup by solving 703A problem.

@@ -3,7 +3,7 @@
 #include <vector>
 
 int main() {
-  int n = 0, q = 0, count = 0;
+  int n = 0, q = 0, count = 0, temp = 0;
 
   std::cin >> n;
 
@@ -15,28 +15,27 @@ int main() {
 
   std::cin >> q;
 
-  std::vector<int> queries(q);
   std::vector<int> results(q);
 
+  std::sort(arr.begin(), arr.end());
+
   for (int i = 0; i < q; i++) {
-    std::cin >> queries[i];
-  }
+    int begin = 0, end = n - 1, mid = end / 2;
 
-  sort(arr.begin(), arr.end());
+    std::cin >> temp;
 
-  for (int j = 0; j < q; j++) {
-
-    count = n;
-
-    for (int i = 0; i < n; i++) {
-      if (queries[j] <= arr[i]) {
-        count--;
-      } else {
+    while (true) {
+      if ((arr[mid] < temp && arr[mid + 1] > temp)) {
+        results[i] = 4 - mid;
         break;
+      } else if (mid > temp) {
+        end = mid;
+        mid = end / 2;
+      } else if (mid < temp) {
+        begin = mid;
+        mid = (end + begin) / 2;
       }
     }
-
-    results[j] = count;
   }
 
   for (int i = 0; i < q; i++) {
