@@ -435,3 +435,9 @@ to solve it.
 [20:09] : Now solving code forces old problem which is Interesting drink yes I can't can't that I mean time complexity error.
 
 [21:01] : Endup by solving 703A problem.
+
+## 16-06-2026
+
+[21:44] : I started a easy problem. 1873A.
+
+[21:47] : I solved problem.

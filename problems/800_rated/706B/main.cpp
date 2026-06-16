@@ -25,13 +25,18 @@ int main() {
     std::cin >> temp;
 
     while (true) {
-      if ((arr[mid] < temp && arr[mid + 1] > temp)) {
-        results[i] = 4 - mid;
+      if (mid == 0 && arr[mid] > temp) {
+        results[i] = 0;
+      } else if ((arr[mid] < temp && arr[mid + 1] > temp) || mid == temp) {
+        results[i] = n - mid;
         break;
-      } else if (mid > temp) {
+      } else if ((arr[mid] > temp && arr[mid - 1] < temp)) {
+        results[i] = (n - mid) - 1;
+        break;
+      } else if (arr[mid] > temp) {
         end = mid;
         mid = end / 2;
-      } else if (mid < temp) {
+      } else if (arr[mid] < temp) {
         begin = mid;
         mid = (end + begin) / 2;
       }
