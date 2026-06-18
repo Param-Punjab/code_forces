@@ -445,3 +445,11 @@ to solve it.
 ## 17-06-2026
 
 [23:50] : Just done with one code forces question due to technical glich it's in queue.
+
+## 18-06-2026
+
+[20:08] : I am participating in contest "Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)".
+
+[20:40] : Done with question A.
+
+[22:23] : I am not able to solve any other question. Now I am going to solve questoin.
