@@ -459,3 +459,19 @@ to solve it.
 [23:32] : Finally exams are over now. it's only 30 minutes so I am starting with easy question "1829A".
 
 [23:42] : So it got accepted I have done for today.
+
+## 20-06-2026
+
+[09:57] : Started codeforces questoin 189A.
+
+[15:03] : It's very hard problem so I decided to participate in virtual contest "Codeforces Round 1084 (Div. 3)".
+
+[15:52] : Finally it got accepted man. B - Deletion Sort.
+
+## 21-06-2026
+
+[09:24] : Taking part in virtual contest "Codeforces Round 1090 (Div. 4)".
+
+[09:53] : Till now I solved 2 problem a and b of virtual contest.
+
+[10:03] : So It's done for today.
