@@ -487,3 +487,9 @@ to solve it.
 ## 23-06-2026
 
 [12:01] : So today I started with 2145B problem.
+
+[22:18] : Working on another problem because previous one contians more time to solve it.
+
+[22:51] : So I can't able to do it so now doing old 800 raitng question.
+
+[23:00] : As usual it's a 800 rating problem so I solved.

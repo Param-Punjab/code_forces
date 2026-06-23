@@ -1,66 +1,71 @@
 #include <iostream>
+#include <string>
 #include <vector>
 
+// Forward declarations
+void operation_0(std::vector<char> &result, int i, bool h = false);
+void operation_1(std::vector<char> &result, int i, bool h = false);
+void operation_2(std::vector<char> &result);
 
-class solution {
-    public:
-        int n = 0, k = 0;
-        std::string temp;
-        std::vector<char> result;
+void operation_0(std::vector<char> &result, int i, bool h) {
+  if ((result[i] == '?' || result[i] == '-') && i < result.size() - 1) {
+    operation_0(result, i + 1);
+  } else {
+    if (!h) {
+      result[i] = '-';
+    } else {
+      result[i] = '?';
+    }
+  }
+}
 
-        solution() {
-            std::cin >> n >> k;
-            result.resize(n, '+');
-            std::cin >> temp;
+void operation_1(std::vector<char> &result, int i, bool h) {
+  if ((result[i] == '?' || result[i] == '-') && i > 0) {
+    operation_1(result, i - 1);
+  } else {
+    if (!h) {
+      result[i] = '-';
+    } else {
+      result[i] = '?';
+    }
+  }
+}
 
-        
-        void zero_operation(std::vector<char> &result, int i, bool h = 0) {
-            if ((result[i] == '?' || result[i] == '-') && i < result.size() - 1) {
-                one_operation(result, i + 1);
-            } else {
-                if (h == 0) {
-                    result[i] = '-';
-                } else {
-                    result[i] = '?';
-                }
-            }
-        }
-
-        void one_operation(std::vector<char> &result, int i, bool h = 0) {
-            if ((result[i] == '?' || result[i] == '-') && i > 0) {
-                zero_operation(result, i - 1);
-            } else {
-                if (h == 0) {
-                    result[i] = '-';
-                } else {
-                    result[i] = '?';
-                }
-            }
-        }
-
-
-        void two_operation(std::vector<char> &result) {
-            zero_operation(result, result.size() - 1, 1);
-            one_operation(result, 0, 1);
-        }
-
-        void display() {
-            for (int i = 0; i < n; i++) {
-                std::cout << result[i];
-            }
-            std::cout << std::endl;
-        }
-};
+void operation_2(std::vector<char> &result) {
+  operation_0(result, result.size() - 1, true);
+  operation_1(result, 0, true);
+}
 
 int main() {
-    int t = 0;
-    std::cin >> t;
+  int t;
+  std::cin >> t;
 
+  std::vector<char> result;
 
-    for (int i = 0; i < t; i++) {
-        solution s;
-        s.display();
+  for (int i = 0; i < t; i++) {
+    int n, k;
+    std::cin >> n >> k;
+    result.resize(n, '+');
+    std::string temp;
+    std::cin >> temp;
+
+    for (int j = 0; j < k; j++) {
+      if (temp[j] == '0') {
+        operation_0(result, 0);
+      } else if (temp[j] == '1') {
+        operation_1(result, n - 1);
+      } else if (temp[j] == '2') {
+        operation_2(result);
+      }
     }
 
-    return 0;
+    // The original code didn't call the operations,
+    // so we just display the initial '+' vector.
+    for (int j = 0; j < n; j++) {
+      std::cout << result[j];
+    }
+    std::cout << std::endl;
+  }
+
+  return 0;
 }
