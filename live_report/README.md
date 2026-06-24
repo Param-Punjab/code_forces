@@ -493,3 +493,10 @@ to solve it.
 [22:51] : So I can't able to do it so now doing old 800 raitng question.
 
 [23:00] : As usual it's a 800 rating problem so I solved.
+
+## 24-06-2026
+
+[22:21] : So today I did nothing the reasion is because of college fees. My whole day got in my college. Now I am starting with
+        : 1000 rating problem on code forces.
+
+[23:41] : I can't able to solve that old problem 2145B I will do it by tommorw.
