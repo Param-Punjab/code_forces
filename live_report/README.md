@@ -500,3 +500,7 @@ to solve it.
         : 1000 rating problem on code forces.
 
 [23:41] : I can't able to solve that old problem 2145B I will do it by tommorw.
+
+[21:20] : So I am still not able to solve that one old problem finding another one.
+
+[23:39] : Due to low time I am doing 2038.
