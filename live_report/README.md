@@ -517,3 +517,11 @@ to solve it.
 [23:53] : I did solve 1894A.
 
 [23:56] : it got successfully accepted. Now signing out from here.
+
+## 29-06-2026
+
+[23:36] : It's a very old problem which I didn't solve and now trying to solve and today after reading it it's feels very easy to solve I don't know why and how does it possible but I am just doing it. It's just implementation.
+
+[23:48] : Oh, man it got me 4 test time resubmission to get the right answer and it's just missunderstanding of mine. 
+
+[23:49] : Signing off. 
