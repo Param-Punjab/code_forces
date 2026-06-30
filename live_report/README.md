@@ -522,6 +522,24 @@ to solve it.
 
 [23:36] : It's a very old problem which I didn't solve and now trying to solve and today after reading it it's feels very easy to solve I don't know why and how does it possible but I am just doing it. It's just implementation.
 
-[23:48] : Oh, man it got me 4 test time resubmission to get the right answer and it's just missunderstanding of mine. 
+[23:48] : Oh, man it got me 4 test time resubmission to get the right answer and it's just missunderstanding of mine.
 
-[23:49] : Signing off. 
+[23:49] : Signing off.
+
+## 30-06-2026
+
+[20:30] : Participating in contest dev 3.
+
+[20:30] : solving for question A.
+
+[20:38] : Probelm A got solved and now it's in queue. Let's see what will happnes.
+
+[20:40] : Moving towards problem number B.
+
+[20:44] : Problem A got wrong now checking it for what's wrong in it.
+
+[21:04] : I don't know why problem A looks very simple but some hidden test case is distroying everything.
+
+[21:05] : Now reading problem C because I can't understand problme B.
+
+[21:55] : I can't able to solve a single questoin.
