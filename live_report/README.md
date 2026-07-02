@@ -543,3 +543,9 @@ to solve it.
 [21:05] : Now reading problem C because I can't understand problme B.
 
 [21:55] : I can't able to solve a single questoin.
+
+## 02-07-2026
+
+[11:17] : Redirecting back to codeforces morning sessions. Working on problem digital string.
+
+[12:28] : I try with my first version but it gives wrong answer due to greedy aproach.
