@@ -556,3 +556,9 @@ to solve it.
 [23:30] : Working on problem 1352A.
 
 [23:46] : Successfully done with 1352A problem.
+
+## 04-07-2026
+
+[23:31] : Working on problem 1811B from 22:30. Now I got the answer just implementing this.
+
+[23:44] : Guess what brother it done. but I don't know why it take that much time for just the calculation I mean 1700 ms time.
