@@ -588,3 +588,9 @@ to solve it.
 ## 08-07-2026
 
 [22:51] : 1841B Trying this again man.
+
+## 09-07-2026
+
+[23:08] : Working on 1841B.
+
+[23:47] : Finally the problem got accepted I didn't learn anything new but Just fuck my brain through that question.
