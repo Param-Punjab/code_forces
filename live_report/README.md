@@ -594,3 +594,23 @@ to solve it.
 [23:08] : Working on 1841B.
 
 [23:47] : Finally the problem got accepted I didn't learn anything new but Just fuck my brain through that question.
+
+## 10-07-2026
+
+[20:45] : start looking for 1000 rating problem at code forces.
+
+[20:46] : start reading 1796B Problem.
+
+[20:59] : Start reading 1918B problem.
+
+[21:03] : I read 1918B Problem statement now it's swaping and deleting binary string thing let me think about it and got into a concolusion.
+
+[21:13] : For that problem I think about 10 minutes and I see that if we check first 2 elements if they are different then we can swap them out and if they are same then we check for next 2 and 3 element if they are diff then we delete first one and swap 2 and 3 but this can cause overall minimum cost of making array different form fresh array. So there's will be many cases I need to take help of AI to get know about Is I am going in the right directoin by manually handling.
+
+[21:20] : Got an Idea of what If we swap all array which can possible and after then which is not swapable we will delete that thing.
+
+[22:06] : So I write the algorithm for this problem in which first I will swap which elmenet can afther then I will delete which are same as fresh stirng.
+
+[22:39] : Starting with easy problem 1367A reading it.
+
+[22:54] : I did that old 1913B problem.
