@@ -614,3 +614,9 @@ to solve it.
 [22:39] : Starting with easy problem 1367A reading it.
 
 [22:54] : I did that old 1913B problem.
+
+## 11-07-2026
+
+[22:29] : I did read problem 427A which is 800 rating question because 1000 rating does suck.
+
+[22:34] : So, 427A was easy but few weeks ago i can't even understand that problem. But now I did it very easily.
