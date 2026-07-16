@@ -642,3 +642,9 @@ to solve it.
 ## 15-07-2026
 
 [23:44] : Submiting 1722A.
+
+## 16-07-2026
+
+[23:16] : Implementation of 1760A
+
+[23:22] : I try to submit the answer but I don't know why the website is starting laging.
