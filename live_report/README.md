@@ -648,3 +648,7 @@ to solve it.
 [23:16] : Implementation of 1760A
 
 [23:22] : I try to submit the answer but I don't know why the website is starting laging.
+
+## 17-07-2026
+
+[23:02] : Solving 1999A
