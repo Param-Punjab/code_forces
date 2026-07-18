@@ -652,3 +652,9 @@ to solve it.
 ## 17-07-2026
 
 [23:02] : Solving 1999A
+
+## 18-07-2026
+
+[23:34] : Trying to solve 1560 A.
+
+[23:46] : It got accepted.
