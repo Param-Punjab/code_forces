@@ -670,3 +670,9 @@ to solve it.
 [20:30] : So let's figure out the last problem solution.
 
 [22:07] : I see that there's a pattern that odd number are not changable so I try to solve it like that way I take a temp vector and sort it up if the odd number is wrong with original one that's means it's not sortable. But that analog is wrong so need to try another one I guess that's enought for today.
+
+## 21-07-2026
+
+[23:42] : implementing 431A
+
+[23:56] : it got accepted.
