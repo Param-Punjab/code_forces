@@ -712,3 +712,7 @@ to solve it.
 [20:11] : Today I am not able to solve questions because I am not well, So I decided to solve an easy questoin.
 
 [20:26] : I solve with the help of AI.
+
+## 27-07-2026
+
+[23:10] : Just doing it.
