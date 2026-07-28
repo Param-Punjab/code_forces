@@ -716,3 +716,9 @@ to solve it.
 ## 27-07-2026
 
 [23:10] : Just doing it.
+
+## 28-07-2026
+
+[14:56] : Yesterday I didn't able to solve problem so I am trying that one.
+
+[21:51] : Problem got accepted.
