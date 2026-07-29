@@ -721,4 +721,8 @@ to solve it.
 
 [14:56] : Yesterday I didn't able to solve problem so I am trying that one.
 
+
+## 29-07-2026
+
+[23:27] : Implementation of problem 707A
 [21:51] : Problem got accepted.
