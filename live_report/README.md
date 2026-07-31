@@ -730,3 +730,7 @@ to solve it.
 ## 30-07-2026
 
 [22:45] : Doing 1971A.
+
+## 31-07-2026
+
+[11:23] : Implementing problem statement "Triple"
