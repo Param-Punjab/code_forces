@@ -744,3 +744,15 @@ to solve it.
 [23:23] : Implementing Problem 450A.
 
 [23:45] : Problem got accepted.
+
+## 03-08-2026
+
+[12:26] : Trying to understand problem 2102B.
+
+[16:20] : First solution (First we will check for the first element of array does that negative if yes then if it's more negative then the largest element of array which is in positive then it's "NO" in all other cases its "YES")
+
+[16:35] : Implementing.
+
+[21:48] : Working on 709A because 2102B got wrong with version one due to time limits I need to go with easy one.
+
+[22:01] : 709A Juicer problem done.
