@@ -756,3 +756,8 @@ to solve it.
 [21:48] : Working on 709A because 2102B got wrong with version one due to time limits I need to go with easy one.
 
 [22:01] : 709A Juicer problem done.
+
+## 04-08-2026
+
+[20:16] : Participating in Dev 3 contest.
+[20:48] : I did solve first problem after that I decided to do some other work due to time limitation.
