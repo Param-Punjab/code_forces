@@ -13,18 +13,24 @@ bool checker(std::string my_string, std::string temp) {
 
 int main(int argc, char *argv[]) {
 
-  int t = 0;
+  int t = 0, n = 0;
   std::cin >> t;
 
   std::vector<std::string> result(t, "NO");
   std::string my_string, temp, target;
 
   for (int i = 0; i < t; i++) {
+    n = 0;
     my_string.clear();
     temp.clear();
     target.clear();
 
+    std::cin >> n;
     std::cin >> my_string;
+
+    if (my_string.size() <= 2) {
+      continue;
+    }
 
     for (int j = 0; j < my_string.size() - 1; j++) {
 

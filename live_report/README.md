@@ -767,3 +767,8 @@ to solve it.
 [21:33] : Finding Code Froces Question.
 [21:52] : I found problem 1766B. I take it's first version as "I will iterate from first char to lest second and I will check after second char is there already available next two char sequence in the string"
 [22:25] : Approach is wrong, Now I will do it tommorw due to strict time boundries.
+
+## 06-08-2026
+
+[21:46] : Trying to findout what's bug inside my code.
+[22:22] : I did submit my second version I just basically did some input mistakes due to that it's getting wrong answers. It's in queue taking too much time.
