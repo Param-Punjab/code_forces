@@ -772,3 +772,11 @@ to solve it.
 
 [21:46] : Trying to findout what's bug inside my code.
 [22:22] : I did submit my second version I just basically did some input mistakes due to that it's getting wrong answers. It's in queue taking too much time.
+
+## 07-08-2026
+
+[22:35] : Reading problem 2216A.
+[22:38] : Start reading another problem 2166B.
+[22:53] : It's very simple problem Just need to divide a / b if n is grater then a/b then answer is 1 else 2.
+[22:54] : Implementing 2166B.
+[23:19] : Successfully Done with that problem.
